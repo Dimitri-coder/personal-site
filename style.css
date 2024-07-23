@@ -1,11 +1,22 @@
 #topbar {
-    color: rgb(17, 32, 95);
+    background-color: rgb(17, 32, 95);
     top: 0;
     position: fixed;
+}
+
+.topbarbutton {
+    background-color: rgb(17, 32, 95);
+    left: 0;
+    height: 50px;
+}
+
+#topbarbutton :hover{
+    transition: 10ms;
+    background-color: rgb(95, 17, 27);
+
 }
 
 .account-button {
     border-radius: 50%;
     outline-color:grey;
-    color:white;
 }
