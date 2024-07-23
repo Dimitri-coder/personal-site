@@ -2,6 +2,8 @@
     background-color: rgb(17, 32, 95);
     top: 0;
     position: fixed;
+    width: 1866px;
+    height: 60px;
 }
 
 .topbarbutton {
