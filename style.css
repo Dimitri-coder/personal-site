@@ -1,0 +1,11 @@
+#topbar {
+    color: rgb(17, 32, 95);
+    top: 0;
+    position: fixed;
+}
+
+.account-button {
+    border-radius: 50%;
+    outline-color:grey;
+    color:white;
+}
