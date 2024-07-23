@@ -12,7 +12,7 @@
     height: 50px;
 }
 
-#topbarbutton :hover{
+.topbarbutton :hover{
     transition: 10ms;
     background-color: rgb(95, 17, 27);
 
