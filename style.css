@@ -12,6 +12,7 @@
     height: 50px;
     top:0;
     border-style: none;
+    vertical-align: top;
 }
 
 .topbarbutton:hover{
