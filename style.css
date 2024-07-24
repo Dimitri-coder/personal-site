@@ -11,7 +11,7 @@
     left: 0;
     height: 50px;
     top:0;
-    border: none;
+    border-style: none;
 }
 
 .topbarbutton:hover{
