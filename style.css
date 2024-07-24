@@ -2,7 +2,6 @@
     background-color: rgb(17, 32, 95);
     top: 0;
     left: 0;
-    position: fixed;
     width: 1866px;
     height: 60px;
 }
@@ -12,7 +11,7 @@
     left: 0;
     height: 50px;
     top:0;
-    border-color: rgb(17, 32, 95);
+    border: none;
 }
 
 .topbarbutton:hover{
