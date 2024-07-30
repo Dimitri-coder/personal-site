@@ -11,12 +11,11 @@
 .topbarbutton {
     background-color: rgb(17, 32, 95);
     left: 0;
-    height: 50px;
+    height: 60px;
     top:0;
     border-style: none;
-    vertical-align: bottom;
+    vertical-align: top;
     margin-top: auto;
-    text-align: center;
 }
 
 .topbarbutton:hover{
