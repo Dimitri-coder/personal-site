@@ -4,6 +4,7 @@
     left: 0;
     width: 1866px;
     height: 60px;
+    margin: auto;
 }
 
 .topbarbutton {
@@ -13,6 +14,7 @@
     top:0;
     border-style: none;
     vertical-align: bottom;
+    margin-top: auto;
 }
 
 .topbarbutton:hover{
