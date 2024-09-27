@@ -26,3 +26,7 @@
 .account-button {
     outline-color:grey;
 }
+
+#body {
+    background-color: rgb(8, 70, 87);
+}
