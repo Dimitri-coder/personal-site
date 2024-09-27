@@ -15,23 +15,33 @@
     vertical-align: top;
     margin-top: auto;
     font-size: large;
+    color: rgb(45, 108, 126);
 }
 
 .topbarbutton:hover{
     transition: 10ms;
     background-color: rgb(95, 17, 27);
+    color:grey;
 
 }
 
 .account-button {
     outline-color:grey;
     background-color: rgb(0, 47, 58);
+    color:rgb(45, 108, 126);
+    
 }
 
 .account-button:hover {
     outline-color:grey;
     background-color:rgb(0, 92, 114);
-
-#body {
-    background-color: rgb(8, 70, 87);
-}
+    color:rgb(5, 8, 86);
+   }
+   
+   .text {
+     color:rgb(7, 19, 69);
+   }
+   
+   #body {
+     background-color:rgb(2, 66, 149);
+   }
