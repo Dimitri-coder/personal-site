@@ -28,7 +28,7 @@
     background-color: rgb(0, 47, 58);
 }
 
-.account-button {
+.account-button:hover {
     outline-color:grey;
     background-color:rgb(0, 92, 114);
 
