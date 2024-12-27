@@ -44,3 +44,10 @@
    #body {
      background-color:rgb(2, 66, 149);
    }
+
+.projectRow {
+    outline-color:rgb(5, 8, 86);
+    outline-width: 5px;
+    outline-style:solid;
+    height: 195px;
+}
