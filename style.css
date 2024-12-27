@@ -2,14 +2,13 @@
     background-color: rgb(17, 32, 95);
     top: 0;
     left: 0;
-    width: 1866px;
-    height: 60px;
+    height: 48px;
 }
 
 .topbarbutton {
     background-color: rgb(17, 32, 95);
     left: 0;
-    height: 60px;
+    height:48px;
     top:0;
     border-style: none;
     vertical-align: top;
